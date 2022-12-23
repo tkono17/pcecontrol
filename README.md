@@ -1,1 +1,1 @@
-# pcecontrol
+# pcecontrol (Photon counting experiment control)
